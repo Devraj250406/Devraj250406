@@ -80,18 +80,33 @@ Rather than collecting tutorial projects, I focus on building software that solv
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Devraj250406&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Devraj250406&theme=tokyonight&hide_border=true" height="170"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 ---
 
