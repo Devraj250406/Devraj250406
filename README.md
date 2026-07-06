@@ -56,30 +56,16 @@ Rather than collecting tutorial projects, I focus on building software that solv
     <td width="50%" valign="top">
       <h3>🎲 Rubik's Cube Solver</h3>
       <p><b>3D Interactive Web Application</b></p>
-      <p>A comprehensive web app built to simulate and solve a Rubik's Cube in real-time, utilizing advanced state management and optimized sorting algorithms (Kociemba's).</p>
+      <p>A comprehensive web app built to simulate and solve a Rubik's Cube in real-time, utilizing advanced state management and optimized sorting algorithms.</p>
       <code>Next.js</code> <code>Three.js</code> <code>Cube.js</code> <code>React</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎵 Magical Flute (Computer Vision)</h3>
-      <p><b>Gesture-Based Musical Interface</b></p>
-      <p>An interactive application that detects finger positions via webcam to play musical notes (like the Super Mario theme) in real-time without physical instruments.</p>
-      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>Pygame</code>
-    </td>
-    <td width="50%" valign="top">
       <h3>💬 Real-Time Chat Platform</h3>
       <p><b>Scalable Full-Stack Messaging</b></p>
       <p>Modern messaging architecture with JWT auth, online presence tracking, secure cookies, and seamless media uploads.</p>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.io</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 AI Student Platform</h3>
-      <p><b>Complete Learning Ecosystem</b></p>
-      <p>Features PDF chat, AI notes, quiz generator, flashcards, study planner, RAG search, and AI tutor streak tracking.</p>
-      <code>React</code> <code>Node.js</code> <code>Vector DB</code> <code>LLMs</code>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Neural Network From Scratch</h3>
@@ -96,16 +82,16 @@ Rather than collecting tutorial projects, I focus on building software that solv
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true" width="48%" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
