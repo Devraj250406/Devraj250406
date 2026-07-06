@@ -80,24 +80,18 @@ Rather than collecting tutorial projects, I focus on building software that solv
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Devraj250406&theme=tokyonight&hide_border=true"/>
+</p>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight" height="170" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true" height="170" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
