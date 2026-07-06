@@ -83,11 +83,7 @@ Rather than collecting tutorial projects, I focus on building software that solv
 <div align="center">
 
 
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-</td>
 
 
 
