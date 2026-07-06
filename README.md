@@ -82,27 +82,14 @@ Rather than collecting tutorial projects, I focus on building software that solv
 
 <div align="center">
 
-<table>
-<tr>
+
 <td>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 </td>
 
-<td>
 
-<img src="https://streak-stats.demolab.com?user=Devraj250406&theme=tokyonight&hide_border=true" height="170"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
