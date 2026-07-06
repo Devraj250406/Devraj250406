@@ -1,638 +1,145 @@
 <div align="center">
 
 # Devraj Singh
+### 🚀 Software Engineer | Full Stack Developer | AI Enthusiast
 
-### Software Engineer • Full Stack Developer • AI Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real+problems.;AI+Powered+Products.;Full+Stack+Applications.;Backend+Systems.;Open+Source+Contributor.;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems.;AI+Powered+Products+&+Backend+Systems.;Full+Stack+Web+Development+(MERN+&+Next.js).;Open+Source+Contributor.;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br>
 
-<a href="https://linkedin.com/in/devrajsingh25">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devrajsingh25)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhdevraj0013@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devraj250406)
 
-<a href="mailto:singhdevraj0013@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Devraj250406">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+*“The best software isn't just written. It's engineered.”*
 
 </div>
 
 ---
 
-# About
+## 👨‍💻 About Me
 
-I'm **Devraj Singh**, a Computer Science undergraduate at **IIIT Vadodara – International Campus Diu**, passionate about building scalable software and AI-powered products.
-
-I enjoy transforming ideas into production-ready applications by combining modern frontend development, backend architecture, cloud technologies, and artificial intelligence.
+I am a Computer Science undergraduate at **IIIT Vadodara – International Campus Diu**, passionate about building scalable software, complex algorithms, and AI-powered products. I enjoy transforming ideas into production-ready applications by combining modern frontend development, robust backend architecture, cloud technologies, and artificial intelligence. 
 
 Rather than collecting tutorial projects, I focus on building software that solves real problems, ships to users, and continuously evolves.
 
 ---
 
-# Current Mission
-
-```txt
-→ Build production-ready AI applications
-→ Master backend engineering
-→ Contribute to Open Source
-→ Strengthen system design fundamentals
-→ Become an exceptional Software Engineer
-```
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis"/>
-
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux"/>
-
-</p>
-
----
-
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
-
-</p>
-
-Currently working with
-
-- OpenAI APIs
-- Whisper
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MCP
-- Vector Databases
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm"/>
-
-</p>
-
----
-
-# Engineering Principles
-
-```text
-• Write maintainable code.
-
-• Build before optimizing.
-
-• Solve real problems.
-
-• Learn continuously.
-
-• Ship consistently.
-
-• Quality over quantity.
-```
-
----
-
-# What I'm Building
-
-## ViralCut AI
-
-An AI-powered platform that transforms long-form videos into engaging short-form content.
-
-Features include
-
-- AI scene detection
-- Speaker diarization
-- Face tracking
-- Smart reframing
-- Whisper transcription
-- GPT-powered clip selection
-- Automatic subtitles
-- High-quality rendering
-
-**Current Status**
-
-🚧 Active Development
-
----
-
-# Interests
-
-- Artificial Intelligence
-- Full Stack Development
-- Backend Systems
-- Distributed Systems
-- System Design
-- Developer Tools
-- Cloud Computing
-- Performance Optimization
-- Open Source
-
----
+## ⚡ Tech Stack & Tools
 
 <div align="center">
 
-> *"The best software isn't just written. It's engineered."*
+| **Category** | **Technologies** |
+|:---:|:---|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" align="middle" /> |
+| 🌐 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" align="middle" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" align="middle" /> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" align="middle" /> |
+| ☁️ **Cloud & DevOps**| <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" align="middle" /> |
+| 🤖 **AI & ML** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" align="middle" /> *(OpenAI APIs, Whisper, LangChain, RAG, AI Agents)* |
+| 🛠️ **Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm" align="middle" /> |
 
 </div>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 🎬 ViralCut AI
-
-**AI-powered short-form video editor**
-
-Transform long-form videos into viral Shorts, Reels, and TikToks using AI.
-
-### Highlights
-
-- Whisper Transcription
-- GPT-powered Clip Detection
-- Speaker Diarization
-- Face Tracking
-- Smart Reframing
-- Auto Captions
-- High Quality Rendering
-- Production Ready Architecture
-
-**Tech**
-
-`Next.js`
-`FastAPI`
-`Python`
-`Docker`
-`PostgreSQL`
-`Redis`
-`OpenAI`
-`Remotion`
-
-🔗 **Live Demo**
-
-🔗 **Repository**
-
-</td>
-
-<td width="50%">
-
-<img src="assets/viralcut-preview.png"/>
-
-</td>
-
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 ViralCut AI</h3>
+      <p><b>AI-powered short-form video editor</b></p>
+      <p>Transforms long-form videos into viral Shorts, Reels, and TikToks using AI scene detection, Whisper transcription, GPT-powered clip selection, and speaker diarization.</p>
+      <code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>PostgreSQL</code> <code>OpenAI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎲 Rubik's Cube Solver</h3>
+      <p><b>3D Interactive Web Application</b></p>
+      <p>A comprehensive web app built to simulate and solve a Rubik's Cube in real-time, utilizing advanced state management and optimized sorting algorithms (Kociemba's).</p>
+      <code>Next.js</code> <code>Three.js</code> <code>Cube.js</code> <code>React</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Magical Flute (Computer Vision)</h3>
+      <p><b>Gesture-Based Musical Interface</b></p>
+      <p>An interactive application that detects finger positions via webcam to play musical notes (like the Super Mario theme) in real-time without physical instruments.</p>
+      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>Pygame</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Real-Time Chat Platform</h3>
+      <p><b>Scalable Full-Stack Messaging</b></p>
+      <p>Modern messaging architecture with JWT auth, online presence tracking, secure cookies, and seamless media uploads.</p>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.io</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 AI Student Platform</h3>
+      <p><b>Complete Learning Ecosystem</b></p>
+      <p>Features PDF chat, AI notes, quiz generator, flashcards, study planner, RAG search, and AI tutor streak tracking.</p>
+      <code>React</code> <code>Node.js</code> <code>Vector DB</code> <code>LLMs</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Neural Network From Scratch</h3>
+      <p><b>Core Machine Learning</b></p>
+      <p>Built forward propagation, backpropagation, gradient descent, and matrix operations completely from scratch.</p>
+      <code>Python</code> <code>NumPy</code> <code>Mathematics</code>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="assets/chat-app.png"/>
-
-</td>
-
-<td width="50%">
-
-## 💬 Real-Time Chat Platform
-
-Modern full-stack messaging platform built with scalable architecture.
-
-### Features
-
-- JWT Authentication
-- Real-Time Messaging
-- Socket.IO
-- Online Presence
-- Media Upload
-- Secure Cookies
-- MongoDB
-- Responsive UI
-
-**Stack**
-
-`React`
-
-`Node.js`
-
-`Express`
-
-`MongoDB`
-
-`Socket.io`
-
-`JWT`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🧠 Neural Network From Scratch
-
-Built an entire neural network without machine learning frameworks.
-
-Implemented
-
-- Forward Propagation
-
-- Backpropagation
-
-- Gradient Descent
-
-- Matrix Operations
-
-Only using
-
-Python + NumPy.
-
-</td>
-
-<td width="50%">
-
-<img src="assets/neural-network.png"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="assets/student-platform.png"/>
-
-</td>
-
-<td width="50%">
-
-## 📚 AI Student Platform
-
-A complete AI learning ecosystem.
-
-Features
-
-- AI Notes
-
-- PDF Chat
-
-- Quiz Generator
-
-- Flashcards
-
-- Study Planner
-
-- RAG Search
-
-- AI Tutor
-
-- Streak Tracking
-
-</td>
-
-</tr>
-</table>
-
----
-
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <br><br>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
 
-</div>
+  <br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
 
 </div>
 
 ---
 
-# Contribution Activity
+## 🏆 Achievements & Coding Profiles
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true"/>
+| Platform / Achievement | Details |
+|:---|:---|
+| 💻 **LeetCode** | **300+ Problems Solved** (Max Rating: **1612**, Top 20% Global) |
+| 🎓 **Academics** | B.Tech CSE at IIITV-ICD (Batch of 2024) |
+| 🌟 **Open Source** | GSSoC Contributor & Consistent GitHub Activity |
+| 🎯 **Focus Areas** | Data Structures & Algorithms, Dynamic Programming, Graphs |
 
 </div>
 
 ---
 
-# Open Source
+## 🎯 2026 Goals & Current Focus
 
-I enjoy contributing to projects that improve developer experience and make technology more accessible.
-
-### Areas of Interest
-
-- Developer Tools
-
-- Artificial Intelligence
-
-- Full Stack Applications
-
-- Documentation
-
-- UI Improvements
-
-- Performance Optimization
-
-- Open Source Ecosystem
-
-Current focus includes contributing through programs like **GSSoC** while also improving my own open-source projects.
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-| Platform | Status |
-|----------|--------|
-| 💻 LeetCode | **300+ Problems Solved** |
-| 🧠 Max Rating | **1612** |
-| 📈 Global Ranking | **Top 20%** |
-| ⚡ Focus | Data Structures & Algorithms |
-
-</div>
-
----
-
-# Engineering Philosophy
-
-```cpp
-while (alive)
-{
-    Learn();
-
-    Build();
-
-    Improve();
-
-    Repeat();
-}
-```
-
----
-
-# Experience Timeline
-
-```text
-2024
-│
-├── Started B.Tech in Computer Science
-│
-├── Learned Web Development
-│
-├── Built Full Stack Applications
-│
-├── Solved 300+ DSA Problems
-│
-├── Started AI Development
-│
-├── Built ViralCut AI
-│
-├── Contributed to Open Source
-│
-└── Preparing for Software Engineering Internships
-```
-
----
-
-# Achievements
-
-🏆 300+ LeetCode Problems
-
-🏆 1612 Rating
-
-🏆 Top 20% Global Ranking
-
-🏆 GSSoC Contributor
-
-🏆 Multiple Full Stack Projects
-
-🏆 AI Product Development
-
-🏆 IIIT Vadodara CSE
-
-🏆 Consistent GitHub Contributions
-
----
-
-# Currently Exploring
-
-- Distributed Systems
-
-- Docker
-
-- Kubernetes
-
-- AWS
-
-- System Design
-
-- AI Agents
-
-- MCP
-
-- LangGraph
-
-- RAG
-
-- PostgreSQL Optimization
-
-- Backend Scalability
+*   **Building:** Launching ViralCut AI publicly and expanding on full-stack freelance projects.
+*   **Learning:** Distributed Systems, Docker, AWS, System Design, and mastering MERN/Next.js architectures.
+*   **Exploring:** AI Agents, LangGraph, RAG integrations, and PostgreSQL optimization.
+*   **Achieving:** Securing a Software Engineering Internship and solving 500+ DSA problems.
 
 ---
 
 <div align="center">
+  
+### Let's Build Something Meaningful
+I'm always interested in collaborating on impactful software, AI-powered products, developer tools, and open-source projects. 
 
-### "Good developers write code.
-
-### Great developers build products."
-
-</div>
-
----
-
----
-
-# 2026 Goals
-
-- [ ] Build and launch ViralCut AI publicly
-- [ ] Reach 500+ GitHub contributions
-- [ ] Contribute consistently to Open Source
-- [ ] Master System Design fundamentals
-- [ ] Learn AWS and deploy production-grade applications
-- [ ] Solve 500+ Data Structures & Algorithms problems
-- [ ] Secure a Software Engineering Internship
-- [ ] Publish technical articles about software engineering and AI
-
----
-
-# Currently Learning
-
-<table>
-<tr>
-<td>
-
-### Backend
-
-- Scalable Architecture
-- Microservices
-- PostgreSQL Internals
-- Redis
-- Message Queues
-
-</td>
-
-<td>
-
-### Artificial Intelligence
-
-- AI Agents
-- RAG
-- MCP
-- LLM Applications
-- Vector Databases
-
-</td>
-
-<td>
-
-### Cloud
-
-- Docker
-- AWS
-- CI/CD
-- Linux
-- Monitoring
-
-</td>
-</tr>
-</table>
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/devrajsingh25">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:singhdevraj0013@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Devraj250406">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## Let's Build Something Meaningful
-
-I'm always interested in collaborating on impactful software, AI-powered products, developer tools, and open-source projects.
-
-If you're working on something exciting—or hiring—I'd love to connect.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,40:7C3AED,100:38BDF8&section=footer"/>
-
-### Thanks for visiting!
-
-*"Great software is built one thoughtful commit at a time."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,40:7C3AED,100:38BDF8&section=footer" />
 
 </div>
