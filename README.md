@@ -81,17 +81,21 @@ Rather than collecting tutorial projects, I focus on building software that solv
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true" width="48%" />
 
-  <br><br>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&hide_border=true&theme=tokyonight" height="170" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true" height="170" /></td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+<br>
 
-  <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj250406&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true" width="100%" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj250406&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -114,10 +118,10 @@ Rather than collecting tutorial projects, I focus on building software that solv
 
 ## 🎯 2026 Goals & Current Focus
 
-*   **Building:** Launching ViralCut AI publicly and expanding on full-stack freelance projects.
-*   **Learning:** Distributed Systems, Docker, AWS, System Design, and mastering MERN/Next.js architectures.
-*   **Exploring:** AI Agents, LangGraph, RAG integrations, and PostgreSQL optimization.
-*   **Achieving:** Securing a Software Engineering Internship and solving 500+ DSA problems.
+* **Building:** Launching ViralCut AI publicly and expanding on full-stack freelance projects.
+* **Learning:** Distributed Systems, Docker, AWS, System Design, and mastering MERN/Next.js architectures.
+* **Exploring:** AI Agents, LangGraph, RAG integrations, and PostgreSQL optimization.
+* **Achieving:** Securing a Software Engineering Internship and solving 500+ DSA problems.
 
 ---
 
