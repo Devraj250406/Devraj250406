@@ -45,7 +45,7 @@
 - 🏗️ Consistently ship real, deployed projects — not tutorial follow-alongs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devraj250406&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Devraj250406&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj250406&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
 </p>
 
